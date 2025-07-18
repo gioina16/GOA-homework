@@ -8,4 +8,4 @@ gio = ''
 
 salome = 4
 
-solomoni = "55 wlis aris"
+print("solomoni 55 wlis aris")

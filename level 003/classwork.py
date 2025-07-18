@@ -1,0 +1,42 @@
+print(5 + 5)
+print(9 + 52)
+print(51 + 15)
+print(84 + 12)
+print(16 + 73)
+
+print(10 - 2)
+print(11 - 5)
+print(80 - 42)
+print(30 - 25)
+print(12 - 4)
+
+print(27/2)
+print(13/2)
+print(17/2)
+print(19/3)
+print(22/3)
+
+print(19//3)
+print(11//2)
+print(13//3)
+print(17//2)
+print(22//3)
+
+print(24*3)
+print(14*3)
+print(12*2)
+print(15*3)
+print(21*3)
+
+
+print(24**3)
+print(15**5)
+print(10**2)
+print(12**3)
+print(18**2)
+
+print(34%2)
+print(24%2)
+print(14%2)
+print(18%2)
+print(15%3)
